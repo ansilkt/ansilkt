@@ -2,7 +2,9 @@
 
 I'm **[`Muhammed Ansil`](www.linkedin.com/in/mansil)**, a Certified  Penetration Tester, Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking, I create content on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world.
 
-<a href="www.linkedin.com/mansil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mansil" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mansil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
 
 <details>
   <summary>More about me</summary>
