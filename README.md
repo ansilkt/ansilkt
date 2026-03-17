@@ -51,10 +51,9 @@ I'm **[`Muhammed Ansil`](www.linkedin.com/in/mansil)**, a Certified  Penetration
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-[<img src="https://img.shields.io/badge/Certified-Penetration_Tester-blue?style=for-the-badge&logo=hackaday&color=000000" alt="Certified Penetration Tester" />
-](https://drive.google.com/file/d/1kQEX-Ud4QkwAOflQJNA3yenhp8TZsS7o/view?usp=sharing)
-</div>
-
+<a href="https://drive.google.com/file/d/1kQEX-Ud4QkwAOflQJNA3yenhp8TZsS7o/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/CPT-RedTeam_Hacker_Academy?style=for-the-badge&logo=hackaday&color=000000&labelColor=FF0000" alt="CPT - RedTeam Hacker Academy" />
+</a>
 ---
 
 <h2 id="Projects" align=''> Projects </h2>
