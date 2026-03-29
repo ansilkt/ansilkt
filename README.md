@@ -61,8 +61,8 @@ I'm **[`Muhammed Ansil`](www.linkedin.com/in/mansil)**, a Certified  Penetration
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
-| **[Project 2](https://github.com/)**    | Short Description |
+| **[Project 1](https://github.com/ansilkt/vuln-scanner.git)**    | Short Description |
+| **[Project 2](https://github.com/ansilkt/advanced-network-scanner.git)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
